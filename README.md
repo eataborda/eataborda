@@ -1,5 +1,3 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 [![Linkedin Badge](https://img.shields.io/badge/-eatm-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eatm/)](https://www.linkedin.com/in/eatm/)
 ![](https://visitor-badge.glitch.me/badge?page_id=eataborda.eataborda)
 
